@@ -1,2 +1,2 @@
 # test0
-test to link the repository with local code
+There are lots of applications of text classification in the commercial world. This project is aimed to classify a given speech according to a tweet post to identify the author who support democratic party or republican party. Our group is mostly using Jupyter Notebook and python to develop the system binary classification problem, relying on Scikit-Learn for building the machine learning components.
